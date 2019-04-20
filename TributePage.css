@@ -1,0 +1,43 @@
+#main{
+  margin:30px auto;
+  padding:10px;
+  border: 10px solid;
+  border-radius:11px;
+  background:	#DC143C;
+}
+#title{
+ text-align:center;
+  font-family: "Verdana";
+}
+h2{
+  text-align:center;
+   font-family:sans-serif;
+}
+img{
+  display: block;
+  max-width:100%;
+  height:auto;
+  margin:auto;
+}
+#img-caption{
+  margin:10px;
+  font-family:georgia;
+  font-size:20px;
+}
+
+#tribute-header{
+  margin-top:50px;
+  margin-left:50px;
+  font-size:23px;
+  text-align:left;
+  
+}
+ul{
+margin-top:20px;
+margin-left:90px;
+padding:10px;
+font-family:"Verdana";
+}
+h4{
+font-size:20px;
+}
